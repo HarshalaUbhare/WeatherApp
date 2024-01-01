@@ -30,7 +30,7 @@ Clone the repository:
 
   pip install -r requirements.txt
 
-***2. Run the application:***
+**2. Run the application:**
 
 
   python weather_app.py
