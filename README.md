@@ -27,11 +27,13 @@ This is a simple weather application built using Tkinter and the OpenWeatherMap 
 
 **1. Install the required libraries:**
 
-pip install -r requirements.txt
+```bash
+  pip install -r requirements.txt
 
-**2. Run the application:**
+***2. Run the application:***
 
-python weather_app.py
+```bash
+  python weather_app.py
 
 **3. Enter the city name, select a state, and click the "Done" button to fetch weather data.**
 
